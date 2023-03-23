@@ -1,0 +1,3 @@
+class MapSet extends ObjectBase {
+
+}

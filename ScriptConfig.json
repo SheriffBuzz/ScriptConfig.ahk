@@ -1,0 +1,19 @@
+{
+    "enableLogger": 0,
+    "exitAppHotkey": "^+!F8",
+    "GeneratedContent": {
+        "GeneratedContentArchivePolicy": "ARCHIVE",
+        "GeneratedContentPath": [
+            "%SCRATCHDRIVE%\\ahk\\generatedcontent"
+        ]
+    },
+    "logLevel": "DEBUG",
+    "stagingArea": [
+        "%RAMDRIVE%\\ahk\\staging",
+        "%SCRATCHDRIVE%\\ahk\\staging",
+        "%USERPROFILE%\\Downloads\\ahkstaging"
+    ],
+    "suppressErrorMessages": 1,
+    "trayTipsEnabled": 1,
+    "workingDirectory": "\\."
+}
